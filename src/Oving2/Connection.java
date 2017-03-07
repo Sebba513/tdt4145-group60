@@ -10,6 +10,7 @@ public class Connection {
     public static void main(String[] args) {
 
         java.sql.Connection con  =  null;
+        Statement stmt = null;
             try {
                 Class.forName("com.mysql.jdbc.Driver");
 
@@ -23,6 +24,18 @@ public class Connection {
                 con = DriverManager.getConnection(url,user,pw);
                 System.out.println("after");
                 System.out.println("Tilkoblingen fungerte.");
+
+
+                stmt = con.createStatement();
+                String sql = "CREATE TABLE InnendørsØkt( " +
+                        "Ventilasjon     varchar(45), "+
+                        "Lufting         varchar(45), "+
+                        "UteInneID       int NOT NULL REFERENCES TreningsØkt(TreningsøktID), "+
+                        "PRIMARY KEY(UteInneID) )";
+                stmt.executeUpdate(sql);
+                System.out.println("table created");
+
+
             } catch (SQLException ex) {
                 System.out.println("Tilkobling feilet: " + ex.getMessage());
             } catch (ClassNotFoundException ex) {
