@@ -27,13 +27,39 @@ public class Connection {
 
 
                 stmt = con.createStatement();
-                String sql = "CREATE TABLE InnendørsØkt( " +
-                        "Ventilasjon     varchar(45), "+
-                        "Lufting         varchar(45), "+
-                        "UteInneID       int NOT NULL REFERENCES TreningsØkt(TreningsøktID), "+
-                        "PRIMARY KEY(UteInneID) )";
-                stmt.executeUpdate(sql);
-                System.out.println("table created");
+
+                String sql = "SELECT notater FROM TreningsØkt";
+                ResultSet rs = stmt.executeQuery(sql);
+
+                while(rs.next()) {
+                    //Retrieve by column name
+                    String notat = rs.getString("notater");
+
+                    //Display values
+                    System.out.print("Notat: " + notat);
+
+                }
+                rs.close();
+
+//                String sql = "INSERT INTO TreningsØkt " +
+//                            "VALUES (1,'Første økt', 'Oppstart', '2017-03-10', 'bra luft', 'bra lufting', '2017-03-10 08:15:03', 'det varte lenge', 8, 6, 'dette var en fantastisk økt', 1)";
+//                stmt.executeUpdate(sql);
+
+
+//                String sql = "CREATE TABLE InnendørsØkt( " +
+//                        "Ventilasjon     varchar(45), "+
+//                        "Lufting         varchar(45), "+
+//                        "UteInneID       int NOT NULL REFERENCES TreningsØkt(TreningsøktID), "+
+//                        "PRIMARY KEY(UteInneID) )";
+//                stmt.executeUpdate(sql);
+//                System.out.println("table created");
+
+
+
+//                String sql1 = "DROP TABLE InnendørsØkt";
+//                stmt.executeUpdate(sql1);
+//                System.out.println("table dropped");
+
 
 
             } catch (SQLException ex) {
