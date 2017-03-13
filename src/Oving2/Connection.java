@@ -109,7 +109,10 @@ public class Connection {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Press 1 for inserting a new økt. ");
-        System.out.println("Press 2 for isomething ");
+        System.out.println("Press 2 for notes ");
+        System.out.println("Press 3 for statistics ");
+        System.out.println("Press 0 for exit ");
+
         while (scanner.hasNext()) {
             int selection = scanner.nextInt();
 
@@ -118,6 +121,14 @@ public class Connection {
             }
             if (selection == 2) {
                 getNotes();
+            }
+            if (selection == 3) {
+                oktCount();
+            }
+            if (selection == 0) {
+                System.out.println("Exiting. Goodbye! ");
+
+                break;
             }
 
 //            else if (scanner.nextLine().equals("3")) {
@@ -183,7 +194,20 @@ public class Connection {
     }
 
     private void oktCount() throws SQLException {
-        
+        String sql = "SELECT TreningsøktID, Prestasjon, PersonligForm, Dato FROM TreningsØkt " +
+                "ORDER BY Prestasjon DESC, PersonligForm DESC ";
+        ResultSet rs = stmt.executeQuery(sql);
+        System.out.println("Beste økter, sortert etter prestasjon og personlig form:");
+        while(rs.next()) {
+            String treningsøktID = rs.getString("TreningsøktID");
+            String dato = rs.getString("Dato");
+            String Prestasjon = rs.getString("Prestasjon");
+            String personligform = rs.getString("PersonligForm");
+
+
+            System.out.println("(" + treningsøktID + ") " + dato + "     " + "Prestasjon: " + Prestasjon + "    Personlig Form: " + personligform );
+
+        }
     }
 
     public static void main(String[] args) {

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d963811a-bb0b-4b62-b6e8-df6f660ddf05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Oving2/Connection.java" afterPath="$PROJECT_DIR$/src/Oving2/Connection.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,38 +32,40 @@
       <file leaf-file-name="Connection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Oving2/Connection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="185" column="8" lean-forward="true" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
+            <state relative-caret-position="556">
+              <caret line="213" column="46" lean-forward="true" selection-start-line="213" selection-start-column="46" selection-end-line="213" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
-                <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
-                <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4357:4446" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4357:4447" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4357:4485" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4357:4536" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4357:4894" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4357:4938" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="4940:4941" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:5976" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:5995" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6024" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6027" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6028" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6074" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6075" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6088" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6089" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6107" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6108" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6125" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6126" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6164" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6165" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6184" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6185" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="5964:6201" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489412151000" expanded="true" signature="6410:6441" ph="SELECT notat... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="6732:6802" ph="SELECT MAX(P... TreningsØkt" />
+                <marker date="1489412151000" expanded="true" signature="6732:6868" ph="SELECT Treni... TreningsØkt" />
               </folding>
             </state>
           </provider>
@@ -614,12 +615,12 @@
       <workItem from="1489149244329" duration="93000" />
       <workItem from="1489149400830" duration="1448000" />
       <workItem from="1489160714624" duration="17000" />
-      <workItem from="1489397509685" duration="10194000" />
+      <workItem from="1489397509685" duration="11710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13237000" />
+    <option name="totallyTimeSpent" value="14753000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -686,34 +687,36 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4446" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4447" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4485" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4536" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4894" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4938" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4940:4941" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5976" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5995" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6024" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6027" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6028" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6074" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6075" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6088" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6089" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6107" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6108" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6125" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6126" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6164" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6165" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6184" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6185" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6201" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="6410:6441" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6802" ph="SELECT MAX(P... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6868" ph="SELECT Treni... TreningsØkt" />
           </folding>
         </state>
       </provider>
@@ -724,34 +727,36 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4446" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4447" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4485" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4536" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4894" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4938" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4940:4941" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5976" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5995" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6024" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6027" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6028" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6074" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6075" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6088" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6089" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6107" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6108" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6125" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6126" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6164" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6165" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6184" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6185" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6201" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="6410:6441" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6802" ph="SELECT MAX(P... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6868" ph="SELECT Treni... TreningsØkt" />
           </folding>
         </state>
       </provider>
@@ -762,34 +767,36 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4446" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4447" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4485" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4536" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4894" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4938" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4940:4941" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5976" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5995" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6024" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6027" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6028" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6074" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6075" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6088" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6089" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6107" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6108" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6125" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6126" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6164" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6165" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6184" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6185" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6201" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="6410:6441" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6802" ph="SELECT MAX(P... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6868" ph="SELECT Treni... TreningsØkt" />
           </folding>
         </state>
       </provider>
@@ -800,34 +807,36 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4446" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4447" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4485" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4536" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4894" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4938" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4940:4941" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5976" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5995" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6024" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6027" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6028" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6074" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6075" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6088" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6089" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6107" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6108" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6125" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6126" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6164" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6165" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6184" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6185" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6201" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="6410:6441" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6802" ph="SELECT MAX(P... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6868" ph="SELECT Treni... TreningsØkt" />
           </folding>
         </state>
       </provider>
@@ -857,38 +866,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Oving2/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="185" column="8" lean-forward="true" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
+        <state relative-caret-position="556">
+          <caret line="213" column="46" lean-forward="true" selection-start-line="213" selection-start-column="46" selection-end-line="213" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
-            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
-            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4446" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4447" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4485" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4536" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4894" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4357:4938" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="4940:4941" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5976" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:5995" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6024" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6027" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6028" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6074" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6075" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6088" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6089" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6107" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6108" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6125" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6126" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6164" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6165" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6184" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6185" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="5964:6201" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489412151000" expanded="true" signature="6410:6441" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6802" ph="SELECT MAX(P... TreningsØkt" />
+            <marker date="1489412151000" expanded="true" signature="6732:6868" ph="SELECT Treni... TreningsØkt" />
           </folding>
         </state>
       </provider>
