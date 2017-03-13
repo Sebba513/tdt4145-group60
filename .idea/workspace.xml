@@ -16,24 +16,76 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="tdt4145-group60" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Connection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Oving2/Connection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            <state relative-caret-position="601">
+              <caret line="185" column="8" lean-forward="true" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
               <folding>
-                <marker date="1489150817000" expanded="true" signature="771:802" ph="SELECT notat... TreningsØkt" />
-                <marker date="1489150817000" expanded="true" signature="1474:1772" ph="CREATE TABLE... InnendørsØkt" />
-                <marker date="1489150817000" expanded="true" signature="1909:1932" ph="DROP TABLE I... " />
+                <element signature="imports" expanded="true" />
+                <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
+                <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
+                <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>stmt</find>
+      <find>st</find>
+      <find>oktid</find>
+      <find>getid</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +98,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/Oving2/Interface.java" />
         <option value="$PROJECT_DIR$/src/Oving2/Connection.java" />
       </list>
     </option>
@@ -57,9 +110,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="874" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -76,8 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -124,7 +175,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,6 +186,8 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="Application.Connection">
     <configuration default="false" name="Connection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -559,15 +613,26 @@
       <workItem from="1489147899238" duration="292000" />
       <workItem from="1489149244329" duration="93000" />
       <workItem from="1489149400830" duration="1448000" />
+      <workItem from="1489160714624" duration="17000" />
+      <workItem from="1489397509685" duration="10194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3026000" />
+    <option name="totallyTimeSpent" value="13237000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -578,14 +643,15 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11015737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -597,7 +663,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,9 +685,35 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489150817000" expanded="true" signature="771:802" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489150817000" expanded="true" signature="1474:1772" ph="CREATE TABLE... InnendørsØkt" />
-            <marker date="1489150817000" expanded="true" signature="1909:1932" ph="DROP TABLE I... " />
+            <element signature="imports" expanded="true" />
+            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
           </folding>
         </state>
       </provider>
@@ -632,9 +723,111 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489150817000" expanded="true" signature="771:802" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489150817000" expanded="true" signature="1474:1772" ph="CREATE TABLE... InnendørsØkt" />
-            <marker date="1489150817000" expanded="true" signature="1909:1932" ph="DROP TABLE I... " />
+            <element signature="imports" expanded="true" />
+            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oving2/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Oving2/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
           </folding>
         </state>
       </provider>
@@ -653,22 +846,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Oving2/Interface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+        <state relative-caret-position="172">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Oving2/Connection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="41" column="27" lean-forward="false" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        <state relative-caret-position="601">
+          <caret line="185" column="8" lean-forward="true" selection-start-line="185" selection-start-column="8" selection-end-line="185" selection-end-column="8" />
           <folding>
-            <marker date="1489150817000" expanded="true" signature="771:802" ph="SELECT notat... TreningsØkt" />
-            <marker date="1489150817000" expanded="true" signature="1474:1772" ph="CREATE TABLE... InnendørsØkt" />
-            <marker date="1489150817000" expanded="true" signature="1909:1932" ph="DROP TABLE I... " />
+            <element signature="imports" expanded="true" />
+            <marker date="1489408312000" expanded="true" signature="752:783" ph="SELECT notat... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="3098:3149" ph="SELECT MAX(T... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4140" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4141" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4179" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4230" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4588" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4051:4632" ph="CREATE TABLE... TreningsØkt" />
+            <marker date="1489408312000" expanded="true" signature="4634:4635" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5670" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5689" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5718" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5721" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5722" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5768" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5769" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5782" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5783" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5801" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5802" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5819" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5820" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5858" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5859" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5878" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5879" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="5658:5895" ph="INSERT INTO TreningsØkt... " />
+            <marker date="1489408312000" expanded="true" signature="6104:6135" ph="SELECT notat... TreningsØkt" />
           </folding>
         </state>
       </provider>
