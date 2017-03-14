@@ -1,1 +1,3 @@
-# tdt4145-group60
+# Database Øving 2
+
+Connecting to NTNU servers via JDBC and executing simple queries and entries.
