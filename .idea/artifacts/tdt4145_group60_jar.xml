@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tdt4145-group60:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tdt4145_group60_jar</output-path>
+    <root id="archive" name="tdt4145-group60.jar">
+      <element id="module-output" name="tdt4145-group60" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.41-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
